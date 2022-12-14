@@ -1,3 +1,5 @@
+/* General style and Desing in all pages*/
+
 body{
 	
     background: url(/img/coffee-g0272447bd_1920.jpg);
@@ -8,7 +10,7 @@ body{
 }
 
 #principalnav{
-    background-color: #D1F9EA;
+    background-color: #e3f3fb;
 }
 
 #logincard{
@@ -18,6 +20,9 @@ body{
     padding: 15rem;
 
 }
+
+/* spefecific styles and desing in main.html*/
+
 
 
 
